@@ -4,7 +4,6 @@
 
 Enunciado del ejercicio: <https://github.com/LuisJoseSanchez/aprende-un-lenguaje-en-un-dia>
 
-* [EQUIPO <nombre_equipo> - <NOMBRE_LENGUAJE>](https://github.com/<repositorio>)
 * [1 Team NoCobol - PHP](https://github.com/albertogomezp/aprende-un-lenguaje-en-un-dia)
 * [2 LoLCats<3 - LOLCODE](https://github.com/FernandoLeivaBrenes/aprende-un-lenguaje-en-un-dia)
 * [3 Team Thanos - Groovy](https://github.com/Fabiobr27/aprende-un-lenguaje-en-un-dia)
