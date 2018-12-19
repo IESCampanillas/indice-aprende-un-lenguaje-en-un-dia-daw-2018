@@ -11,6 +11,7 @@ Enunciado del ejercicio: <https://github.com/LuisJoseSanchez/aprende-un-lenguaje
 * [4 Team Rocket - JAVASCRIPT](https://github.com/romanpastu/aprende-un-lenguaje-en-un-dia)
 * [5 Team Coffee- Coffeescipt](https://github.com/nicolaslerible/aprende-un-lenguaje-en-un-dia)
 * [6 Team C -C](https://github.com/lorenamoyano/aprende-un-lenguaje-en-un-dia)
+* [7 Equipo 7 - C++](https://github.com/AlejandroMoralesConejo/aprende-un-lenguaje-en-un-dia)
 
 
 :star: Si te ha gustado este ejercicio, dale una estrellita al [repositorio original](https://github.com/LuisJoseSanchez/aprende-un-lenguaje-en-un-dia) y a este repo.
